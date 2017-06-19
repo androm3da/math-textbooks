@@ -73,24 +73,17 @@ The writing of textbooks and making them freely available on the web is an idea 
 
 35.  Yet another one out of print, but now freely available is [_Convergence of Stochastic Processes_](http://www.stat.yale.edu/~pollard/), by [David Pollard](http://www.stat.yale.edu/~pollard/).
 
-36.  Designed for undergraduate physics students is[](http://www.physics.miami.edu/nearing/mathmethods/)
-
-    [_Mathematical Tools for Physics_](http://www.physics.miami.edu/nearing/mathmethods/), by James Nearing.
+36.  Designed for undergraduate physics students is [_Mathematical Tools for Physics_](http://www.physics.miami.edu/nearing/mathmethods/), by James Nearing.
 
 37.  [_A First Course in Linear Algebra_](http://linear.ups.edu/), by [Rob Beezer](http://buzzard.ups.edu/).
 
-38.  [](http://www.cns.gatech.edu/GroupTheory/index.html)
-
-    [_Group Theory_](http://www.cns.gatech.edu/GroupTheory/index.html), by [Pedrag Civitanovic](http://www.cns.gatech.edu/%7Epredrag/).
+38.  [_Group Theory_](http://www.cns.gatech.edu/GroupTheory/index.html), by [Pedrag Civitanovic](http://www.cns.gatech.edu/%7Epredrag/).
 
 39.  [Shlomo Sternberg](http://www.math.harvard.edu/people/SternbergShlomo.html) has written [_Theory of Functions of a Real Variable_](http://www.math.harvard.edu/~shlomo/docs/Real_Variables.pdf).
 
-40.  [_Lie Algebras_](http://www.math.harvard.edu/~shlomo/docs/lie_algebras.pdf) is another one by [Professor Sternberg](http://www.math.harvard.edu/people/SternbergShlomo.html)<a></a>
+40.  [_Lie Algebras_](http://www.math.harvard.edu/~shlomo/docs/lie_algebras.pdf) is another one by [Professor Sternberg](http://www.math.harvard.edu/people/SternbergShlomo.html)
 
-<a></a>
-42.  <a></a>
-
-    <a>Yet another one by</a> [Professor Sternberg](http://www.math.harvard.edu/people/SternbergShlomo.html) is [_Semi-Riemann Geometry and General Relativity_](http://www.math.harvard.edu/~shlomo/docs/semi_riemannian_geometry.pdf)
+42.  Yet another one by [Professor Sternberg](http://www.math.harvard.edu/people/SternbergShlomo.html) is [_Semi-Riemann Geometry and General Relativity_](http://www.math.harvard.edu/~shlomo/docs/semi_riemannian_geometry.pdf)
 
 43.  [_Advanced Calculus_](http://www.math.harvard.edu/~shlomo/docs/Advanced_Calculus.pdf), by Lynn Loomis and Schlomo Sternberg
 
@@ -165,9 +158,3 @@ The writing of textbooks and making them freely available on the web is an idea 
 79.  [_Introduction to Continuum Mechanics_](http://rbowen.tamu.edu/), by Ray. M. Bowen, also originally published by Plenum Press and now available from Dover and made freely available here.
 
 80.  Not simply an online textbook, but certainly in the same spirit is the [Topology Webcourse](http://at.yorku.ca/course/index.htm) project undertaken by [Topology Atlas](http://at.yorku.ca/topology/).
-
-
-[George Cain](../index.html)  
-[School of Mathematics](http://www.math.gatech.edu)  
-[Georgia Institute of Technology](http://www.gatech.edu)  
-[cain@math.gatech.edu](mailto:cain@math.gatech.edu)  
